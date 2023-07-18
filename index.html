@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Projetos Básicos | React JS</title>
+</head>
+<body>
+    <div class="centralizar">
+    </div>
+    <script>
+        projetos = document.getElementsByClassName("projeto")
+        Array.from(projetos).forEach(function(projeto){
+            projeto.addEventListener("click",function(){
+                window.open(this.querySelector('a').href,"_blank")
+            })
+        })
+    </script>
+</body>
+</html>
