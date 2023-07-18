@@ -4,7 +4,7 @@ Este repositório contém uma série de projetos desenvolvidos para praticar Rea
 
 ## Lista de Projetos
 
-1. [FORMULÁRIO](1.%20Formulario/index.html) - Modificado em: 11/02/2023 13:47
+1. [FORMULÁRIO](1.%20Formulário/index.html) - Modificado em: 18/07/2023 12:14
 
 ## Como Usar
 
